@@ -11,6 +11,8 @@ public class LoginPage {
 		String password = "password";
 		
 		System.out.println("Logged in");
+		
+		System.out.println("Logged out");
 	}
 
 }
